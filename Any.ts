@@ -1,4 +1,4 @@
-var hero;
+var hero : any;
 function myHero(){
     return true;
 }
